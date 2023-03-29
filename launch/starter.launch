@@ -1,0 +1,6 @@
+<launch>
+
+  <!-- Declare nodes to launch -->
+  <node pkg="drone_sq_server" type="square_server_node" name="drone_square" output="screen"></node>
+
+</launch>
