@@ -1,8 +1,4 @@
-<!DOCTYPE html>
 <html>
-  <head>
-    <title>Drone Square Action</title>
-  </head>
   <body>
     <h1>Drone Square Action</h1>
     <p>
